@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from urldb import *
-from webspider import *
-from mylib import *
+from lib.urldb import *
+from lib.webspider import *
+from lib.mylib import *
 
 qdailyDB = Urldb()
 
